@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @surengaloyan
-- 👀 I'm mobile Flutter developer
+- 👀 I'm a mobile Flutter developer
 - 📫 Reach me with LinkedIn: https://www.linkedin.com/in/suren-galoyan-16b652228
 
 <!---
