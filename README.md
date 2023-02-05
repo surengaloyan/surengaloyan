@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @surengaloyan
-- 👀 I’m interested in front-end developing
-- 🌱 I’m currently learning HTML CSS JS
+- 👀 I'm mobile Flutter developer
 - 📫 Reach me with LinkedIn: https://www.linkedin.com/in/suren-galoyan-16b652228
 
 <!---
